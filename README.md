@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Lucas Delazeri 👋
 
-<!--
-**lucas-delazeri/lucas-delazeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/lucas-delazeri-17055235b/">
+<img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/lucasdelazeri_/">
+<img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="50%" src="pc.png" style="padding-right:10% !important" >
+
+### Glad to see you here!  
+![](https://komarev.com/ghpvc/?username=lucas-delazeri)
+
+I'm a student of Computer Science at URI Santiago, Brazil.
+<br><br>
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: lucasdelazeris@gmail.com
+- :speech_balloon: Hobbies: Games and Sports
+<br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucas-delazeri&show_icons=true&hide_border=true&count_private=true" />
+</a>
