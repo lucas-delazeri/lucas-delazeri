@@ -15,7 +15,7 @@
 
 I'm a student of Computer Science at URI Santiago, Brazil.
 <br><br>
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me: lucasdelazeris@gmail.com
 - :speech_balloon: Hobbies: Games and Sports
 <br><br>
