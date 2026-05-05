@@ -20,5 +20,5 @@ I'm a student of Computer Science at URI Santiago, Brazil.
 - :speech_balloon: Hobbies: Games and Sports
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucas-delazeri&show_icons=true&hide_border=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats-chi-seven-34.vercel.app/api?username=lucas-delazeri&show_icons=true&hide_border=true&count_private=true" />
 </a>
