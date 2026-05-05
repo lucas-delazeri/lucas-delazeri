@@ -8,7 +8,7 @@
 <img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<img align="right" width="50%" src="pc.png" style="padding-right:10% !important" >
+<img align="right" width="50%" src="https://blog.jakelee.co.uk/assets/images/2024/octocats/class-act.png" style="padding-right:10% !important" >
 
 ### Glad to see you here!  
 ![](https://komarev.com/ghpvc/?username=lucas-delazeri)
